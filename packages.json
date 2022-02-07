@@ -1,0 +1,18 @@
+[
+    {
+        "package": "CAvaccines",
+        "url": "https://github.com/arisp99/CAvaccines"
+    },
+    {
+        "package": "coiaf",
+        "url": "https://github.com/bailey-lab/coiaf"
+    },
+    {
+        "package": "miplicorn",
+        "url": "https://github.com/bailey-lab/miplicorn"
+    },
+    {
+        "package": "nof1gen",
+        "url": "https://github.com/arisp99/nof1gen"
+    }
+]
